@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c39d539e.css",
+    "main.js": "/static/js/main.98acc852.js",
+    "static/media/nihal6.png": "/static/media/nihal6.13d570beb0bc83e9a837.png",
+    "static/media/work-1.png": "/static/media/work-1.9d70c2239b9cefe78a18.png",
+    "static/media/work-2.png": "/static/media/work-2.893b3d33cde47ed0012c.png",
+    "static/media/work-3.png": "/static/media/work-3.de1df78bf5ca74ec3063.png",
+    "static/media/nihal7.jpg": "/static/media/nihal7.0f5c30fece54ea1aee03.jpg",
+    "static/media/Nihal.pdf": "/static/media/Nihal.19ab161df6d4858f098f.pdf",
+    "index.html": "/index.html",
+    "main.c39d539e.css.map": "/static/css/main.c39d539e.css.map",
+    "main.98acc852.js.map": "/static/js/main.98acc852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39d539e.css",
+    "static/js/main.98acc852.js"
+  ]
+}
